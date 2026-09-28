@@ -4,10 +4,10 @@
 | Date | Action | Contact |
 |------|--------|---------|
 | 2026-09 | Candidature sur le site carrières | - |
-| 2026-09 | Mail direct (recommandé par un collègue) | Cassie Tan (RH, Chine) |
-| 2026-09-28 | Même mail, adapté (nom de la personne ayant donné le contact) | RH Singapour (nom à compléter) |
+| 2026-09-24 | Mail direct (recommandé par un collègue) | Cassie Tan (RH, Chine) |
+| 2026-09-28 | Même mail, adapté (nom de la personne ayant donné le contact) | Matthew Foo (RH, Singapour) |
 
-Prochaine étape : relance si pas de réponse vers le 2026-10-05.
+Prochaine étape : relance si pas de réponse Cassie vers le 2026-10-01, Matthew vers le 2026-10-05.
 Pas de copie croisée entre les RH (régions différentes).
 
 ## Mail original (envoyé à Cassie Tan) - style d'écriture de Paul, tel quel
@@ -30,9 +30,9 @@ Pas de copie croisée entre les RH (régions différentes).
 >
 > Paul Rabiller
 
-## Version corrigée (envoyée au RH Singapour)
+## Version corrigée (envoyée à Matthew Foo)
 
-> Dear [Prénom Nom],
+> Dear Matthew Foo,
 >
 > I recently applied to the Scientist, Protein Science position on the career website, and [nom du contact] advised me to contact you directly as I'm very interested in this opportunity.
 >
